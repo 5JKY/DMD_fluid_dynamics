@@ -1,5 +1,5 @@
-# DataDrivenFluid
-Illustration of Proper Orthogonal Decomposition (POD) and (DMD)
+# DMD_fluid_dynamics
+Proper Orthogonal Decomposition (POD) and (DMD)
 
 Data    : flow past a cylinder at Reynolds number, Re = 200. There are two data files.
           Only one data uploaded.
@@ -14,4 +14,3 @@ Data    : flow past a cylinder at Reynolds number, Re = 200. There are two data 
 
           There are an example code (python script) showing how to read and visualize the data. 
           
-# DMD_fluid_dynamics
